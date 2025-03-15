@@ -1,0 +1,13 @@
+--- Research Output ---
+Timestamp: 2025-03-15 23:50:47
+
+Main Problems with Land Rover Discovery 4:
+1. Timing Chain Issues - Common in 2010-2016 models leading to starting and stalling problems.
+2. Oil Leaks - Often related to timing chain failures, resulting in oil contamination or low oil pressure.
+3. Transmission Problems - Frequently reported, particularly in older models.
+4. Engine Overheating - Diesel engines like TDV6 and SDV6 may run hot, indicating potential issues.
+5. Electrical System Issues - Reports of electrical failures in later models (2017-2020).
+6. Air Suspension Problems - Known for causing discomfort and handling issues.
+
+These problems can often lead to reduced reliability and higher maintenance costs.
+
