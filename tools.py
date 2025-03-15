@@ -21,12 +21,14 @@ save2txt = Tool(
 )
 
 
-search = DuckDuckGoSearchRun()
+search_engine = DuckDuckGoSearchRun()
 search_tool = Tool(
     name="search",
-    func=search.run,
+    func=search_engine.run,
     description="Search the web for info"
 )
 
 api_wrapper = WikipediaAPIWrapper(top_k_results=3, doc_content_chars_max=400)
 wiki_tool = WikipediaQueryRun(api_wrapper=api_wrapper)
+
+tools_used = [save2txt, search_tool, wiki_tool]
